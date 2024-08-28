@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Software Architecture and System Design
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 Reach me in my email: geraldgnika@gmail.com
-- ⚡ Other facts: I compose music and I sing too
+- ⚡ Other facts: I compose music, I sing and I draw too
