@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @geraldgnika
+- 🖥️ I build scalable web apps with Angular, React, Node.js, Express.js and Laravel.
+- 💼 Experienced in creating reusable components, RESTful APIs, and optimizing performance.
 - 👀 I’m interested in DSA and Competitive Programming
 - 🌱 I’m currently learning Software Architecture and System Design
 - 💞️ I’m looking to collaborate on Web Development projects
